@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "Everforest Dark",
+    "editor.fontSize": 18,
+    "editor.wordWrap": "on",
+    "editor.formatOnType": true,
+    "workbench.editor.enablePreview": false,
+    "editor.fontFamily": "Roboto Mono",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.formatOnPaste": true,
+    // "editor.fontFamily": "Roboto"
+}
