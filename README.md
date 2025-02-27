@@ -1,4 +1,13 @@
 # tool-Config
+
+
+## 安装 oh my zsh
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+
+
 ## 设置git bash 默认使用 zsh
 ```
 vim ~/.bashrc
@@ -12,18 +21,13 @@ fi
 设置WindowsTermianl 默认使用Git Bash
 
 
-## 安装 oh my zsh
-```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-```
-
 
 ## 配置 zsh
 ```
 vim ~/.zshrc
 ```
 
-## 熟悉zsh 配置
+## 刷新zsh 配置
 ```
 source ~/.zshrc
 ```
