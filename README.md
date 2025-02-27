@@ -23,7 +23,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 vim ~/.zshrc
 ```
 
-## 熟悉zsh 配置
+## 刷新zsh 配置
 ```
 source ~/.zshrc
 ```
